@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge Bathinda",
+  "description": "Smart institute management and student progress platform for SkillBridge Bathinda with multi-model AI chatbot, seat tracking, and GST billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
